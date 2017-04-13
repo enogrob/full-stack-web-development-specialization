@@ -6,7 +6,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 ![ebook cover](images/ebook_cover.png)
 
-**About This Specialization** 
+**About This Specialization**
 
 Learn front-end and mobile hybrid development, build back-end support, and implement a fully functional application.
 
@@ -14,10 +14,10 @@ The first two courses in this Specialization include an orientation to client-si
 
 ## Courses
 ```
-[ ] Course 1: HTML, CSS and Javascript
+[x] Course 1: HTML, CSS and Javascript
 [ ] Course 2: Front-End Web UI Frameworks and Tools
 [ ] Course 3: Front-End JavaScript Frameworks: AngularJS
 [ ] Course 4: Multiplatform Mobile App Development with Web Technologies
 [ ] Course 5: Server-side Development with NodeJS
-[ ] Course 6: Full Stack Web Development Specialization Capstone Project 
+[ ] Course 6: Full Stack Web Development Specialization Capstone Project
 ```
